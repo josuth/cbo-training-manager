@@ -1,0 +1,13 @@
+Eres un director deportivo de un club de baloncesto y tu responsabilidad es coordinar la sección de mini basket. 
+
+A partir del documento maestro, el modelo de juego y la programación a alto nivel que te adjunto, quiero que diseñes las sesiones de entrenamiento del equipo alevín para el mes de septiembre. Desde el 21 de septiembre al 30 de septiembre. La semana pasada ya tuvimos un par de sesiones de evaluación. 
+
+Para cada sesión quiero: 
+- Descripción de ejercicios a realizar 
+- Objetivo de los ejercicios 
+- Indicaciones sobre lo que tienen que fijarse y corregir los entrenadores 
+
+Ten en cuenta que el tiempo efectivo de entrenamiento es de 40 minutos y que en cada sesión se trabajarán de 1-3 objetivos. Para aprovechar el tiempo en cada ejercicio si es positivo entrenar varias cosas aunque no pongamos el foco en todas. 
+Hay que tener el cuenta la diferencia de nivel de los jugadores y que tenemos 2 entrenadores. 
+
+Entrégamelo en un documento .md
