@@ -5,3 +5,4 @@ Sesiones:
 - [Lunes 21 de septiembre de 2026](sessions/sesion-20260921.md)
 - [Miércoles 23 de septiembre de 2026](sessions/sesion-20260923.md)
 - [Viernes 25 de septiembre de 2026](sessions/sesion-20260925.md)
+- [Lunes 28 de septiembre de 2026](sessions/sesion-20260928.md)
