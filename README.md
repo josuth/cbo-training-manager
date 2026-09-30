@@ -7,3 +7,4 @@ Sesiones:
 - [Viernes 25 de septiembre de 2026](sessions/sesion-20260925.md)
 - [Lunes 28 de septiembre de 2026](sessions/sesion-20260928.md)
 - [Miércoles 30 de septiembre de 2026](sessions/sesion-20260930.md)
+
