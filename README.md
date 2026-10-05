@@ -14,3 +14,4 @@
 ### Octubre
 
 - [Lunes 2 de octubre de 2026](sessions/sesion-20261002.md)
+- [Lunes 5 de octubre de 2026](sessions/sesion-20261005.md)
