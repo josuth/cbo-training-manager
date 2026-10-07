@@ -13,5 +13,11 @@
 
 ### Octubre
 
-- [Lunes 2 de octubre de 2026](sessions/sesion-20261002.md)
+- [Viernes 2 de octubre de 2026](sessions/sesion-20261002.md)
 - [Lunes 5 de octubre de 2026](sessions/sesion-20261005.md)
+- [Miércoles 7 de octubre de 2026](sessions/sesion-20261007.md)
+
+
+### Notas
+- Echo en falta fundamentos individuales
+- Echo en falta tiro
