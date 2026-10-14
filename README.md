@@ -17,6 +17,7 @@
 - [Lunes 5 de octubre de 2026](sessions/sesion-20261005.md)
 - [Miércoles 7 de octubre de 2026](sessions/sesion-20261007.md)
 - [Viernes 9 de octubre de 2026](sessions/sesion-20261009.md)
+- [Miércoles 14 de octubre de 2026](sessions/sesion-20261014.md)
 
 
 ### Notas
